@@ -39,7 +39,9 @@ public class MainActivityTest {
      */
     @Before
     public void init(){
+
         Log.e("TAG", "init: " );
+
     }
 
     /**
